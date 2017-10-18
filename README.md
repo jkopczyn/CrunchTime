@@ -1,12 +1,12 @@
-To determine how you spend your time, TagTime literally randomly samples you.
-At random times it pops up and asks what you're doing *right at that moment*.
-You answer with tags.
-
-See
+The parent project, *TagTime*, is a stochastic, random experience sampling tool. To determine how you spend your time, TagTime literally randomly samples you. At random times it pops up and asks what you're doing *right at that moment*.
+You answer with tags. (See
 [messymatters.com/tagtime](http://messymatters.com/tagtime )
-for the whole story.
+for the whole story.)
 
-We're currently auto-tweeting git commits: [@tagtm](http://twitter.com/tagtm ).
+
+# CrunchTime
+
+**CrunchTime** is a stripped-down fork of TagTime intended to ask a binary question: "Are you working on an emergency?". This is being created because TagTime is still a little more intrusive than desired for a team-coordinating tool to gauge how much developer time is being spent fixing incidents versus writing code/making improvements/designing features/anything else.
 
 # Code
 
